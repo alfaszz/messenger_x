@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654702114524",
+    "project_id": "messengerx11",
+    "storage_bucket": "messengerx11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654702114524:android:88fe9b0bcd87d66afc6619",
+        "android_client_info": {
+          "package_name": "com.example.messenger_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVWsS6QlEnqYEjo0UOgZCq_QU3gF0L-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
