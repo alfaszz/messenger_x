@@ -9,8 +9,8 @@ Messenger X is a minimal and simple chat application built using Flutter. It is 
 
 ## Planned Features
 
-- Sending photos
-- Uploading profile pictures
+- Sending media files
+- Uploading profile picture
 - Push notifications
 
 ## Getting Started
@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact us at mohammedalfaz0341@gmail.com(mailto:mohammedalfaz0341@gmail.com).
+For any inquiries or feedback, feel free to contact us at mohammedalfaz0341@gmail.com
