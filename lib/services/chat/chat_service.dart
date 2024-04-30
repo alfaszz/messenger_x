@@ -1,5 +1,4 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:messenger_x/models/message.dart';
 import 'package:messenger_x/models/user.dart';
 import 'package:messenger_x/services/auth/auth_service.dart';
@@ -7,7 +6,6 @@ import 'package:messenger_x/services/auth/auth_service.dart';
 class ChatService {
   //firestore instance
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
-  final FirebaseAuth _auth = FirebaseAuth.instance;
 
   //users stream
   Stream<List<UserModel>> getUserStream() {

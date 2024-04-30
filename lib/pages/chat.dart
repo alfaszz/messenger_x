@@ -80,7 +80,7 @@ class Chat extends StatelessWidget {
     bool isCurrentUser = message.senderID == _authService.getCurrentUser()!.uid;
 
     return Container(
-      padding: EdgeInsets.only(top: 2),
+      padding: const EdgeInsets.only(top: 2),
       //alignment: alignment,
       child: Column(
         crossAxisAlignment:

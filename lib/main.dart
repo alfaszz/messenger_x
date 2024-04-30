@@ -1,8 +1,6 @@
-
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:messenger_x/services/auth/auth_gate.dart';
-import 'package:messenger_x/themes/light.dart';
 import 'package:messenger_x/themes/theme_provider.dart';
 import 'package:provider/provider.dart';
 
